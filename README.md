@@ -27,3 +27,7 @@ npm run dev
 ```sh
 npm run build
 ```
+
+
+```github repo
+[text](https://github.com/AMRWERY/task---product-card--tailwind)
